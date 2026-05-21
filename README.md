@@ -39,7 +39,7 @@
 - Опыт более 10 лет, с постепенным наращиванием вышеперечисленных пунктов.
 
 ## Контакты
-- Telegram: @Plastoon721 (предпочтительно)
+- Telegram: @Plastoon721 *(предпочтительно)*
 - Email: nikomir1721@gmail.com
-- GitHub: github.com/NikitaB-QA/QA-Portfolio
-- Резюме HeadHunter: hh.ru/resume/6ad8c2d3ff0e77d2270039ed1f5a526b747850
+- GitHub: https:/github.com/NikitaB-QA/QA-Portfolio
+- Резюме HeadHunter: https:/hh.ru/resume/6ad8c2d3ff0e77d2270039ed1f5a526b747850
