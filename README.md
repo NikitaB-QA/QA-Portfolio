@@ -41,5 +41,5 @@
 ## Контакты
 - Telegram: @Plastoon721 *(предпочтительно)*
 - Email: nikomir1721@gmail.com
-- GitHub: https:/github.com/NikitaB-QA/QA-Portfolio
-- Резюме HeadHunter: https:/hh.ru/resume/6ad8c2d3ff0e77d2270039ed1f5a526b747850
+- GitHub: github.com/NikitaB-QA/QA-Portfolio
+- Резюме HeadHunter: hh.ru/resume/6ad8c2d3ff0e77d2270039ed1f5a526b747850
